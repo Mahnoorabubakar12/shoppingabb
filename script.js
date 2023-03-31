@@ -1,0 +1,1 @@
+var menu-btn = document.querySelectorAll('.menu-btn')
